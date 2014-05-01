@@ -1,0 +1,30 @@
+{
+  "name": "glsl-hsv2rgb",
+  "version": "1.0.0",
+  "description": "Fast GLSL conversion from HSV color to RGB",
+  "glslify": "index.glsl",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/glsl-hsv2rgb.git"
+  },
+  "keywords": [
+    "fast",
+    "hsv",
+    "hue",
+    "saturation",
+    "value",
+    "rgb",
+    "color",
+    "convert",
+    "glsl",
+    "shader",
+    "webgl",
+    "glslify"
+  ],
+  "author": "Sam Hocevar (http://sam.zoy.org/)",
+  "homepage": "https://github.com/hughsk/glsl-hsv2rgb",
+  "bugs": {
+    "url": "https://github.com/hughsk/glsl-hsv2rgb/issues"
+  }
+}
